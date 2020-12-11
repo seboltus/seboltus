@@ -1,4 +1,4 @@
-## How to build strack with **[patos.us](https://patos.us)** [⚙⚙](xn--8v8ha.ws) [⛓⛓](xn--l9ha.ws) 
+## How to build strack with **[patos.us](https://servi.us)** [⚙⚙](xn--8v8ha.ws) [⛓⛓](xn--l9ha.ws) 
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
 
