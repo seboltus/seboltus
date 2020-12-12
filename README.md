@@ -1,12 +1,17 @@
-## How to build strack with **[patos.us](https://servi.us)** [⚙⚙](xn--8v8ha.ws) [⛓⛓](xn--l9ha.ws) 
 
-Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
+## [🏳🏳](xn--en8ha.ws) [🏴🏴](xn--en8hb.ws) [🏴🏳](xn--fn8ha.ws) [🏳🏴](xn--en8hc.ws) [⚙⚙](xn--8v8ha.ws) How to build strack with **[servi.us](https://servi.us)** [⛓⛓](xn--l9ha.ws) 
 
-- Use **Ziply** [internet](https://ziplyfiber.com/login) *bonded? with **NewEgg** [hardware](https://www.newegg.com)
+Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
+
+- **Ziply** [internet](https://ziplyfiber.com/login) *bonded? on **NewEgg** [hardware](https://www.newegg.com)
 
   - *proxy* [🏳🏳](xn--en8ha.ws) to *data* [🏴🏴](xn--en8hb.ws) | *[file](https://boxb.in/file)* [🏴🏳](xn--fn8ha.ws) | *[pool](https://boxb.in/pool)* [🏳🏴](xn--en8hc.ws) ...
 
-- Use **Fiverr** [hire](https://www.fiverr.com/) to **Alibaba** [service](https://www.alibaba.com) *power tray/stick, sd card, disposable gear (booklet/notepad with SD card)
+- [**Fiverr**](https://www.fiverr.com/)
+  - power tray, power stick, logo, mobile development
+  
+- [**Alibaba**](https://www.alibaba.com) 
+  - STL printing, sd card, disposable phones (booklet/notepad with SD card)
 
   - with [package print]() for **Chase** [payment](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account) to **USPS** [ship](https://www.usps.com/business/web-tools-apis/documentation-updates.htm)
 
