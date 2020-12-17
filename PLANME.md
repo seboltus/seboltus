@@ -51,6 +51,7 @@ king the roi, Konig, re (swords, ax for diamonds)
 knight the chevalier, Ober, Ritter, cavall, cavliere
 joker of red, black, white
 
+```
 var pre = "1F0"; // example 1F0AB = Jack of Spades
 var suit = ["A", "B", "C", "D"];var number = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E"]; 
 var joker = ["BF", "CF", "DF"];var back = "A0";
@@ -59,6 +60,7 @@ var rank = [], card1, card2, card1_flip, card2_flip;
 function makeCard() { var random_suit = Math.floor(Math.random() * 4), random_number = Math.floor(Math.random() * 14); rank.push(random_number); return pre + suit[random_suit][1] + number[random_number][1]; }
 
 //var test = '\u' + pre + suit[random_suit][1] + number[random_number][1];
+```
 
 //height = 350 #3.5 in (9 cm)
 //width = 250 #2 in (6.5 cm) 
