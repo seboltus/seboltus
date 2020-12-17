@@ -15,7 +15,7 @@ Here we have the cave of darkness (clan of cats) suffering the prisoner's dilemn
 Laws of Governance [order]:
 
 - Self, people, ability to empower [spec] - "power"
-- Task, item, supply, transport [build] - "raid"
+- Task, item, supply, transport [build] - "raid" (good to get lost)
 - Cash, papers, home/market, utility/subsidy [resource] - "establishment"
 - Desert mentality, sustainable boat cabin [relic] - "world citizenship" ...raid (expand territory) vs. establishment (build a core)
 
@@ -25,7 +25,8 @@ Laws of Governance [order]:
 1. meeting must not be fun, but business, adversaries and islands (with whales) with evil bankers, two shelters in position, both shaky, we'll raid them and take fire, fun and games said the officer, we saw your smoke, what have you been doing? having a war or something? on friendship, let's have a fort, people haul rocks up a mountain, each move on in a different way
 1. get home and sit on floor with back against wall, take shower, do laundry, spend time with friends, eat dinner, watch old shows with chess/cards, relax, sit and read by a fire, work late with classical music, study with homework/reading/writing/drawing, 
 1. rest and wash up, drink water, easy medication, medicine, then sleep (if stressed, midnight snack of milk and apple)
-1. climb/dive/fly, be Mr. Happy and own a mountain, beach "model" island sanctuary in sustainable [boat](https://www.boattrader.com/boat/2005-catamaran-cruisers-35-vagabond-7311908/) cabin with hawks/whales in Edmonds with incinerator toilet as a isolationist outpost, coast with Canada and Mexico by 41, expeditions for artifacts/relics, nomad/forager, maps/charts for geocaching/geotagging, freedom to roam, Silver dollars, victory gin
+1. climb/dive/fly, be Mr. Happy and own a mountain, beach "model" island sanctuary in sustainable [boat](https://www.boattrader.com/boat/2005-catamaran-cruisers-35-vagabond-7311908/) cabin with hawks/whales in Edmonds with bio toilet as a isolationist outpost, coast with Canada and Mexico by 41, expeditions for artifacts/relics, nomad/forager, maps/charts for geocaching/geotagging, freedom to roam, Silver dollars, victory gin
+
 
 beer/bread Tartoogas revival, American classic with exotics (peppers/willow/gum), simple vs. detailed menu
 
@@ -40,7 +41,7 @@ stocked rooms and online food truck (electric van) Tartoogas revival with "hot" 
 
 *the "American Archetype", Matthew Tin*
 
-card of cards game with built-in scenarios, or use boxb.in<br/>map/task battles (card print/game)
+card of cards game with built-in scenarios<br/>map/task battles (card print/game)
   //game of war? //casino game? cards game with built-in scenarios, map/task battles (card print/game)
 
 spade of swords, heart of cups, diamond of pentacles, club of wands
