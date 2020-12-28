@@ -2,7 +2,7 @@
 The "drops of time" analogy of tortoise and the hare scenario, until the Roman deity Janus, double faced looking both at the future and past at once and begin to observe the basic structures of things without being overwhelmed by the details. 
 
 #### A need of self-propagation and infinitive-basis, a utopian watchmaker's workshop
-      
+
 Also take (Huff Parker) Damn, he muttered checking the time. He was running late and had already forgotten anything memorable from his dreams. The thoughts of work were encroaching upon his mind. Damn, he said again. And so it was. Lying in bed in a messy bedroom, unshowered/unshaved stash of drugs, smoking with Mr. Pibbles.
 
 Here we have the cave of darkness (clan of cats) suffering the prisoner's dilemna to the light outside. "worker" dirty habits vs. "king" technology scenario
@@ -26,7 +26,6 @@ Laws of Governance [order]:
 1. get home and sit on floor with back against wall, take shower, do laundry, spend time with friends, eat dinner, watch old shows with chess/cards, relax, sit and read by a fire, work late with classical music, study with homework/reading/writing/drawing, 
 1. rest and wash up, drink water, easy medication, medicine, then sleep (if stressed, midnight snack of milk and apple)
 1. climb/dive/fly, be Mr. Happy and own a mountain, beach "model" island sanctuary in sustainable [boat](https://www.boattrader.com/boat/2005-catamaran-cruisers-35-vagabond-7311908/) cabin with hawks/whales in Edmonds with bio toilet as a isolationist outpost, coast with Canada and Mexico by 41, expeditions for artifacts/relics, nomad/forager, maps/charts for geocaching/geotagging, freedom to roam, Silver dollars, victory gin
-
 
 beer/bread Tartoogas revival, American classic with exotics (peppers/willow/gum), simple vs. detailed menu
 
@@ -71,3 +70,9 @@ function makeCard() { var random_suit = Math.floor(Math.random() * 4), random_nu
 //'Kairos refers to, literally "the right or opportune moment", used to metaphysical or Divine time, a qualitative force.'],
 
 https://github.com/msebolt/
+
+https://regexr.com/
+
+https://www.bluecosmo.com/wideye-isavi-isathub-portable-satellite-internet-terminal.html
+
+https://satellitephonestore.com/catalog/rent/details/thales-missionlink-350
