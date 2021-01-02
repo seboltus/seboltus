@@ -131,7 +131,7 @@
 - 🙂🙂.ws	
 - 👖👖.ws
 - 👓👓.ws
-- [🏳🏴](xn--en8hc.ws) *also includes white/white, black/white, and black/black*
+- 🏳🏳 🏴🏴 🏳🏴 🏴🏳
 - blockb.in
 - [🔩🔩](xn--8v8ha.ws) with boltb.in
 - [⛓⛓](xn--l9ha.ws) with boxcha.in
@@ -192,3 +192,5 @@ Google replacements = MapBox, media.net, carbon?
 tor browser, https://chromium.googlesource.com/chromium/src/+/master/headless/
 
 https://github.com/msebolt, https://github.com/seboltus, https://twitter.com/msebolt
+
+
