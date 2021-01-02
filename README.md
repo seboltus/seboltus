@@ -1,9 +1,147 @@
 
-##  How to build [🏳🏴](xn--en8hc.ws) strack [⛓⛓](xn--l9ha.ws) with **[servi.us](https://servi.us)**  project docs [📚📚](xn--zt8ha.ws) [📮📮](xn--ku8ha.ws)
+*all domains listed below for sale, contact for more information*
 
-Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws) to **Craigslist** [property](https://www.craigslist.com) w/ elevator console? factory machine with online interface (or carbon fiber 3D printer)
+## United States Land Grab of .us domains
 
-- [**Ziply**](https://ziplyfiber.com/login) *bonded? on **Google** [domain](https://domains.google.com)/[ads](https://www.google.com/adsensenew/u/0/pub-1429497248082414/home?hl=en-US&signup-no-redirect=true), **Dynu** [email](https://www.dynu.com), **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com?
+abder.us
+achomawi.us
+antiloch.us
+apalachicola.us
+arecibo.us
+arikara.us
+atchafalaya.us
+baranof.us
+blackfeet.us
+brasstownbald.us
+brazoria.us
+bunkerhill.us
+cahokia.us
+cather.us
+cheaha.us
+chequamegon.us
+chiricahua.us
+colville.us
+congaree.us
+croatan.us
+escanaba.us
+esselen.us
+fakahatchee.us
+faneuil.us
+frissell.us
+guayama.us
+halelea.us
+hidatsa.us
+humacao.us
+isleroyale.us
+jerimoth.us
+kabetogama.us
+kahikinui.us
+kalapana.us
+kapapala.us
+kipahoehoe.us
+kisatchie.us
+kobuk.us
+koochiching.us
+koolau.us
+kootenai.us
+lospadres.us
+mackinac.us
+malheur.us
+mandan.us
+maxhamish.us
+missouria.us
+moloaa.us
+monongahela.us
+moshannon.us
+mukilteo.us
+myakka.us
+nantahala.us
+nelchina.us
+noatak.us
+ossabaw.us
+otoe.us
+patos.us
+pawnee.us
+payette.us
+plumas.us
+richloam.us
+samish.us
+sapelo.us
+shuksan.us
+sixrivers.us
+skymeadows.us
+sproul.us
+standingrock.us
+stanislaus.us
+susquehannock.us
+talladega.us
+tateshell.us
+taumsauk.us
+thunderbasin.us
+timucuan.us
+umpqua.us
+unalaska.us
+uncompahgre.us
+uwharrie.us
+voyageurs.us
+waikoloa.us
+wailua.us
+wakeforest.us
+whitebutte.us
+whiteearth.us
+whiteriver.us
+witchita.us
+yunque.us
+
+### India land grab of .in
+
+bhander.in
+bhimgad.in
+brahmagiri.in
+chandoli.in
+cotigao.in
+gangokri.in
+kotgarh.in
+langtang.in
+nanj.in
+palpur.in
+paracut.in
+shoolpaneshwar.in
+yawal.in
+
+### Canadian land grab of .ca
+
+aulavik.ca
+kabetogama.ca
+nopiming.ca
+pukaskwa.ca
+
+### Famous authors [📚📚](xn--zt8ha.ws)
+
+angelou.us
+hurston.us
+pynchon.us
+salinger.us
+
+### Pairs of emoji
+
+🧦🧦.ws
+🧤🧤.ws
+👣👣.ws
+🙂🙂.ws	
+👖👖.ws
+👓👓.ws
+[🏳🏴](xn--en8hc.ws) *also includes white/white, black/white, and black/black*
+[🔩🔩](xn--8v8ha.ws) with boltb.in
+[⛓⛓](xn--l9ha.ws) with boxcha.in
+[📮📮](xn--ku8ha.ws) with boxb.in
+[🌳🌳](xn--wh8ha.ws) with treeop.com
+
+##  How to build  strack  with **[servi.us](https://servi.us)**  project docs  
+
+Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/)  to **Craigslist** [property](https://www.craigslist.com) w/ elevator console? factory machine with online interface (or carbon fiber 3D printer)
+
+- [**Ziply**](https://ziplyfiber.com/login) *bonded? on **Google** [domain](https://domains.google.com)/[ads](https://www.google.com/adsensenew/u/0/pub-1429497248082414/home?hl=en-US&signup-no-redirect=true), **Dynu** [email](https://www.dynu.com), **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com
 
 - [**Fiverr**](https://www.fiverr.com/) to [**Alibaba**](https://www.alibaba.com) to [**Chase**](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account) to [**USPS**](https://www.usps.com/business/web-tools-apis/documentation-updates.htm) *3D prototype? server pool? logos? velcro?
 
@@ -14,8 +152,6 @@ For registration, see [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](htt
 [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) [patent/trademark](https://www.uspto.gov/)
 
 For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
-
-Built by **[sebolt.us](https://sebolt.us)** [🔩🔩](xn--8v8ha.ws) **[servi.us](https://boltb.in)** [🔩🔩](xn--8v8ha.ws) 
 
  [icons](https://material.io/resources/icons/?style=baseline), maid brigade
 
@@ -29,3 +165,41 @@ virtual news feed... enter name? https://github.com/AliaksandrSiarohin/first-ord
 Google replacements = MapBox, media.net, carbon?
 
 tor browser, https://chromium.googlesource.com/chromium/src/+/master/headless/
+
+https://github.com/msebolt
+https://github.com/seboltus
+https://twitter.com/msebolt
+
+tipt.in
+tactician.us
+statemap.us
+victoryg.in
+slat.in
+
+padp.in
+
+sloeg.in
+
+sebolt.us
+
+servi.us
+name.com
+mant.us
+
+mattdown.com
+
+projectb.in
+projectp.in
+blockb.in
+localstat.us
+
+lond.in
+
+boxt.in
+
+bitstat.us
+
+breadb.in
+
+copco.in
+cupco.in
