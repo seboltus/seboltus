@@ -177,3 +177,16 @@ Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.
 For registration, see [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](https://secure.dor.wa.gov/), [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) [patent/trademark](https://www.uspto.gov/)
 
 For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random) *virtual news feed... enter name?*
+
+https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard
+
+https://developer.android.com/ndk/guides/graphics/getting-started#command-line
+
+https://source.android.com/devices/graphics/implement-vulkan
+
+https://github.com/googlesamples/android-vulkan-tutorials
+
+https://vulkan-tutorial.com/Loading_models
+
+https://products.aspose.app/3d/conversion/fbx-to-obj
+
