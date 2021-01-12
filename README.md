@@ -190,3 +190,6 @@ https://vulkan-tutorial.com/Loading_models
 
 https://products.aspose.app/3d/conversion/fbx-to-obj
 
+numpy-stl, STL/OBJ design?
+electric gun
+https://www.google.com/search?client=firefox-b-1-d&q=youtube+embed
