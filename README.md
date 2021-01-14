@@ -157,45 +157,29 @@
 
 ### Reserved
 
-tor browser, https://chromium.googlesource.com/chromium/src/+/master/headless/
-
-Erwin McDaniel
-
-TradeOgre, robinhood, night ski, neodynium slides with super capacitors, marauder, herpes vaccine, disney plus, biorock
-https://github.com/bitmaus, github star
 - mant.us
-- mattdown.com
+- mattdown.com, "project docs"
 - sebolt.us
-- servi.us
+- servi.us, "strack studios" (includes servius.me for mail)
 
-##  How to build  strack  with **[servi.us](https://servi.us)**  project docs  
+##  Contact information
 
-Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/)  to **Craigslist** [property](https://www.craigslist.com) w/ elevator console? factory machine with online interface, land with portable amenities with stocked provisions
+Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com)
 
 - [**Ziply**](https://ziplyfiber.com/login) *bonded? on **Google** [domain](https://domains.google.com)/[ads](https://www.google.com/adsensenew/u/0/pub-1429497248082414/home?hl=en-US&signup-no-redirect=true), **Dynu** [email](https://www.dynu.com), **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com?
 
 - [**Fiverr**](https://www.fiverr.com/) to [**Alibaba**](https://www.alibaba.com) to [**Chase**](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account) to [**USPS**](https://www.usps.com/business/web-tools-apis/documentation-updates.htm)
-
-  - collector's booklet (notes), box/toy/sticker/seal(2), business "key" card with QR
   
-  - [icons](https://material.io/resources/icons/?style=baseline), maid brigade, [escrow](https://my.escrow.com/myescrow/MyTransactions.asp?hid=mt) *food truck diner menu*
+  - [icons](https://material.io/resources/icons/?style=baseline), maid brigade, [escrow](https://my.escrow.com/myescrow/MyTransactions.asp?hid=mt) 
 
 For registration, see [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](https://secure.dor.wa.gov/), [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) [patent/trademark](https://www.uspto.gov/)
 
-For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random) *virtual news feed... enter name?*
+For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/news/rss.xml), [Gutenberg](http://www.gutenberg.org/wiki/Main_Page), [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
 
-https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard
+## Reference
 
-https://developer.android.com/ndk/guides/graphics/getting-started#command-line
+- [GitHub star](https://github.com/bitmaus)
+- [Microsoft, Aquent programmer writer](https://github.com/msebolt/) with Erwin McDaniel
+- [RegExp online](https://regexr.com/)
 
-https://source.android.com/devices/graphics/implement-vulkan
-
-https://github.com/googlesamples/android-vulkan-tutorials
-
-https://vulkan-tutorial.com/Loading_models
-
-https://products.aspose.app/3d/conversion/fbx-to-obj
-
-numpy-stl, STL/OBJ design?
-electric gun
-https://www.google.com/search?client=firefox-b-1-d&q=youtube+embed
+TradeOgre, robinhood

@@ -38,44 +38,13 @@ stocked rooms and online food truck (electric van) Tartoogas revival with "hot" 
 - "crafted" snacks to feasts (cooked beef stew, fried chicken/potato salad/bread/cheese/brownies, crackers, meat, spices, knoephla bacon)
 - renditions of American classics with exotic cash crops (peppers/willow/peppermint/gum, "screen shock" headache powder)
 
-*the "American Archetype", Matthew Tin*
+*the "American Archetype", Matthew Tin, from the food truck diner menu*
 
-card of cards game with built-in scenarios<br/>map/task battles (card print/game)
-  //game of war? //casino game? cards game with built-in scenarios, map/task battles (card print/game)
-
-spade of swords, heart of cups, diamond of pentacles, club of wands
-jack the valet, Bube, Unter, Page, fante (instruments, one eye for hearts/spades)
-queen the Dame, Konigin, regina (flowers, sceptre for for spades)
-king the roi, Konig, re (swords, ax for diamonds)
-knight the chevalier, Ober, Ritter, cavall, cavliere
-joker of red, black, white
-
-```
-var pre = "1F0"; // example 1F0AB = Jack of Spades
-var suit = ["A", "B", "C", "D"];var number = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E"]; 
-var joker = ["BF", "CF", "DF"];var back = "A0";
-
-var rank = [], card1, card2, card1_flip, card2_flip;
-function makeCard() { var random_suit = Math.floor(Math.random() * 4), random_number = Math.floor(Math.random() * 14); rank.push(random_number); return pre + suit[random_suit][1] + number[random_number][1]; }
-
-//var test = '\u' + pre + suit[random_suit][1] + number[random_number][1];
-```
-
-//height = 350 #3.5 in (9 cm)
-//width = 250 #2 in (6.5 cm) 
+night ski, neodynium slides with super capacitors, marauder, herpes vaccine, disney plus, biorock
+w/ elevator console? factory machine with online interface, land with portable amenities with stocked provisions
+gas generator, property (car) to commercial... electric gun
 
 //"the civilian's complex routine, an exercise in armchair centrism, or the tacit understanding of the needs and concerns of middle-class comfort"}},
 //"Poets can create monsters at will, take for instance, Ancient Greece's two distinct principles for time, that of Chronos and Kairos. " } },
 //'Chronos refers to numeric, or chronological, time, a quantitative force.',
 //'Kairos refers to, literally "the right or opportune moment", used to metaphysical or Divine time, a qualitative force.'],
-
-https://github.com/msebolt/
-
-https://regexr.com/
-
-https://www.bluecosmo.com/wideye-isavi-isathub-portable-satellite-internet-terminal.html
-
-https://satellitephonestore.com/catalog/rent/details/thales-missionlink-350
-
-
-https://github.com/bitmaus ("lonestar")
