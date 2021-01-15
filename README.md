@@ -30,13 +30,7 @@ mant.us - mattdown.com, "project docs" - sebolt.us - servi.us, "strack studios" 
 
 ##  Contact information
 
-Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com)
-
-- [**Ziply**](https://ziplyfiber.com/login) *bonded? on **Google** [domain](https://domains.google.com)/[ads](https://www.google.com/adsensenew/u/0/pub-1429497248082414/home?hl=en-US&signup-no-redirect=true), **Dynu** [email](https://www.dynu.com), **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com?
-
-- [**Fiverr**](https://www.fiverr.com/) to [**Alibaba**](https://www.alibaba.com) to [**Chase**](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account) to [**USPS**](https://www.usps.com/business/web-tools-apis/documentation-updates.htm)
-  
-  - [icons](https://material.io/resources/icons/?style=baseline), maid brigade, [escrow](https://my.escrow.com/myescrow/MyTransactions.asp?hid=mt) 
+Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com) on [**Ziply**](https://ziplyfiber.com/login) *bonded?
 
 For registration, see [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](https://secure.dor.wa.gov/), [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) [patent/trademark](https://www.uspto.gov/)
 
@@ -47,5 +41,4 @@ For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/ne
 - [GitHub star](https://github.com/bitmaus)
 - [Microsoft, Aquent programmer writer](https://github.com/msebolt/) with Erwin McDaniel
 - [RegExp online](https://regexr.com/)
-
-TradeOgre, robinhood
+- [icons](https://material.io/resources/icons/?style=baseline)
