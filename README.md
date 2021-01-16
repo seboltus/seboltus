@@ -1,7 +1,15 @@
 
-##  Contact information
+## sebolt.us "the adventurer" [🔩🔩](xn--8v8ha.ws)
 
-Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com) on [**Ziply**](https://ziplyfiber.com/login) *bonded?
+- servi.us (servius.me) [📚📚](xn--zt8ha.ws) (with user data)
+  - servos repo
+  - current state, project doc editor with toolbox *mattdown.com*
+  - personal tactician with ai editor?
+  - strack studios
+
+## Contact information
+
+Located at [19500 130th AV NE, 98072](https://citresidentialservicing.myloancare.com/app/index.html#/Dashboard) in [Woodinville](https://www.ci.woodinville.wa.us/) ([Bothell](http://www.ci.bothell.wa.us/)) of [King County](https://www.kingcounty.gov/) to **Craigslist** [property](https://www.craigslist.com) on [**Ziply**](https://ziplyfiber.com/login) *bonded?*
 
 For registration, see [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](https://secure.dor.wa.gov/), [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) [patent/trademark](https://www.uspto.gov/)
 
@@ -23,21 +31,17 @@ bhander.in - bhimgad.in - brahmagiri.in - chandoli.in - cotigao.in - gangokri.in
 
 aulavik.ca - kabetogama.ca - nopiming.ca - pukaskwa.ca
 
-### Famous authors [📚📚](xn--zt8ha.ws)
+### Famous authors 
 
 angelou.us - hurston.us - pynchon.us - salinger.us 
 
 ### Pairs of emoji
-🧦🧦.ws - 🧤🧤.ws - 👣👣.ws - 🙂🙂.ws	 - 👖👖.ws - 👓👓.ws - 🏳🏳 🏴🏴 🏳🏴 🏴🏳 - blockb.in - [🔩🔩](xn--8v8ha.ws) with boltb.in - [⛓⛓](xn--l9ha.ws) with boxcha.in - [📮📮](xn--ku8ha.ws) with boxb.in - boxt.in - breadb.in - [🌳🌳](xn--wh8ha.ws) with treeop.com - copco.in and cupco.in
+
+🙂🙂.ws - 🧦🧦.ws - 🧤🧤.ws - 👣👣.ws - [🌳🌳](xn--wh8ha.ws) with treeop.com - 👖👖.ws - 👓👓.ws - [⛓⛓](xn--l9ha.ws) with boxcha.in - [📮📮](xn--ku8ha.ws) with boxb.in - *gears?* - 🏳🏳 🏴🏴 🏳🏴 🏴🏳
 
 ### Other
 
-bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloeg.in - statemap.us - tactician.us - tipt.in - victoryg.in
-
-### Reserved
-
-mant.us - mattdown.com, "project docs" - sebolt.us - servi.us, "strack studios" (includes servius.me for mail)
-
+bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloeg.in - statemap.us - tipt.in - victoryg.in - blockb.in - boltb.in - boxt.in - breadb.in - copco.in and cupco.in - tactician.us - mant.us
 
 ## Reference
 
