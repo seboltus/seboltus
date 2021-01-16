@@ -48,3 +48,10 @@ gas generator, property (car) to commercial... electric gun
 //"Poets can create monsters at will, take for instance, Ancient Greece's two distinct principles for time, that of Chronos and Kairos. " } },
 //'Chronos refers to numeric, or chronological, time, a quantitative force.',
 //'Kairos refers to, literally "the right or opportune moment", used to metaphysical or Divine time, a qualitative force.'],
+
+spade of swords, heart of cups, diamond of pentacles, club of wands
+jack the valet, Bube, Unter, Page, fante (instruments, one eye for hearts/spades)
+queen the Dame, Konigin, regina (flowers, sceptre for for spades)
+king the roi, Konig, re (swords, ax for diamonds)
+knight the chevalier, Ober, Ritter, cavall, cavliere
+joker of red, black, white
