@@ -49,3 +49,68 @@ bitstat.us - localstat.us - padp.in - projectb.in - projectp.in - slat.in - sloe
 - [Microsoft, Aquent programmer writer](https://github.com/msebolt/) with Erwin McDaniel
 - [RegExp online](https://regexr.com/)
 - [icons](https://material.io/resources/icons/?style=baseline)
+
+# strack
+product, power tray/stick, color/size, in sealed box/bag, add slide tray, grid, power stick, stackable
+
+order (seals, box/bag with logo, sticker, collector's business cards, toy) (version/OR/etc.) to ship...
+
+https://www.usps.com/business/web-tools-apis/documentation-updates.htm
+
+https://www.alibaba.com
+
+## How to install servOS
+
+*This process requires a BIOS that can boot from USB. Enter BIOS settings by pressing ESC, DEL, and/or a particular Function key on boot.*
+
+1. Download [Arch Linux](https://www.archlinux.org/download) and use `dd` to image an USB.
+
+   ```
+   wget...
+   dd if=arch_linux.iso of=/dev/sda status=progress
+   ```
+
+1. Boot to the USB and run the script.
+
+   ```
+   #iwctl --passphrase passphrase station device connect SSID #optional, for wireless
+   pacman -Sy --noconfirm git
+   git clone https://github.com/seboltus/servius
+   chmod +x servius/servos/install.sh
+   servius/servos/install.sh new
+   ```
+
+## How to install servius
+
+Configure domains using **Google** [domain](https://domains.google.com), **Dynu** [email](https://www.dynu.com), and **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) *name.com? Tucows.com?*
+
+Setup router with the following ports:
+
+|Port|Function|
+|-|-|
+|80|http|
+|443|https|
+|2525|mail|
+|587|tls|
+
+Install certs using: (also configure haproxy)
+```
+certbot certonly --standalone -d ${site}, cp -r /etc/letsencrypt/live/${site} data/${site}
+sudo -E bash -c 'cat /etc/letsencrypt/live/$DOMAIN/fullchain.pem /etc/letsencrypt/live/$DOMAIN/privkey.pem > /etc/haproxy/certs/$DOMAIN.pem'
+```
+
+Build a strack unit, attach an M.2 drive (enclosure) and run `servius/servos/install.sh old`. Deploy unit.
+
+Go to site and setup user/password. Repeat build strack units for each additional and use add IP function.
+
+### Additional commands
+
+```
+fdisk -l #show drives
+df, ls -a, du -xhS | sort -h | tail -n15 #show file/folder info
+lscpu #show hardware info
+grep -R "term" #search
+
+ip addr show #show network connections
+ping google.com -c 2 #test network
+```
