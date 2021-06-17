@@ -1,5 +1,5 @@
 
-## sebolt.us "the adventurer" [🔩🔩](xn--8v8ha.ws)
+## Home of [Matthew Sebolt](https://github.com/msebolt), matt@sebolt.us [🔩🔩](xn--8v8ha.ws)
 
 - servi.us (servius.me) [📚📚](xn--zt8ha.ws) (with user data)
   - servos repo
