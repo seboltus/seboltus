@@ -118,6 +118,7 @@ ping google.com -c 2 #test network
 Latest domains...
 
 
+
 Name
 Status
 
@@ -179,6 +180,8 @@ Forwards to 72.14.183.93
 
 alibates.us
 Forwards to 72.14.183.93
+
+alito.us		
 
 allapattah.us
 Forwards to 72.14.183.93
@@ -456,6 +459,9 @@ Forwards to 72.14.183.93
 bowermaster.us
 Forwards to 72.14.183.93
 
+boylston.us
+Forwards to 72.14.183.93
+
 brahmagiri.in
 Forwards to 72.14.183.93
 
@@ -571,6 +577,8 @@ Forwards to 72.14.183.93
 cather.us
 Forwards to 72.14.183.93
 
+catholepistemiad.us		
+
 cedarbreak.us
 Forwards to 72.14.183.93
 
@@ -659,6 +667,8 @@ Forwards to 72.14.183.93
 
 cobscook.us
 Forwards to 72.14.183.93
+
+coburn.us		
 
 cockaponset.us
 Forwards to 72.14.183.93
@@ -774,6 +784,8 @@ Forwards to 72.14.183.93
 dennings.us
 Forwards to 72.14.183.93
 
+dermott.us		
+
 deschanel.us
 Forwards to 72.14.183.93
 
@@ -785,6 +797,8 @@ Forwards to 72.14.183.93
 
 desotonational.us
 Forwards to 72.14.183.93
+
+devanter.us		
 
 devilslake.us
 Forwards to 72.14.183.93
@@ -951,6 +965,8 @@ fluhr.us
 flycatcher.us
 Forwards to 72.14.183.93
 
+fortas.us		
+
 fortbelknap.us
 Forwards to 72.14.183.93
 
@@ -992,6 +1008,8 @@ Forwards to 72.14.183.93
 
 frankenhaler.us
 Forwards to 72.14.183.93
+
+frankfurter.us		
 
 frederica.us
 Forwards to 72.14.183.93
@@ -1379,6 +1397,8 @@ Forwards to 72.14.183.93
 keokuk.us
 Forwards to 72.14.183.93
 
+khosrowshahi.us		
+
 khutzeymateen.ca
 Forwards to 72.14.183.93
 
@@ -1454,6 +1474,8 @@ kroenke.us
 
 krusenstern.us
 Forwards to 72.14.183.93
+
+krzanich.us		
 
 kuaokala.us
 Forwards to 72.14.183.93
@@ -1557,6 +1579,8 @@ Forwards to 72.14.183.93
 lunenberg.us
 Forwards to 72.14.183.93
 
+lurton.us		
+
 lvlt.us		
 
 mackinac.us
@@ -1634,6 +1658,8 @@ mergenthaler.us
 Forwards to 72.14.183.93
 
 meyerson.us		
+
+michigania.us		
 
 mickelson.us
 Forwards to 72.14.183.93
@@ -1986,6 +2012,8 @@ Forwards to 72.14.183.93
 peachblossum.us
 Forwards to 72.14.183.93
 
+pearrygin.us		
+
 peary.us
 Forwards to 72.14.183.93
 
@@ -2171,6 +2199,8 @@ Forwards to 72.14.183.93
 
 rolynd.com		
 
+rometty.us		
+
 roscommon.us
 Forwards to 72.14.183.93
 
@@ -2332,6 +2362,8 @@ Forwards to 72.14.183.93
 sinema.us
 Forwards to 72.14.183.93
 
+sinlahekin.us		
+
 siouxfall.us
 Forwards to 72.14.183.93
 
@@ -2430,6 +2462,8 @@ steinem.us
 Forwards to 72.14.183.93
 
 stemberg.us		
+
+stepanzoff.us		
 
 streep.us
 Forwards to 72.14.183.93
