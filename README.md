@@ -17,7 +17,7 @@ For news, see [CSPAN](https://www.c-span.org/), [BBC](http://feeds.bbci.co.uk/ne
 
 ## domain listings
 
-*all domains listed below for sale, contact for more information*
+*all domains listed below for sale, contact **matt@sebolt.us** for more information*  **see current (full) list at bottom of the page**
 
 ### United States Land Grab of .us domains
 
